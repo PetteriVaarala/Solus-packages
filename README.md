@@ -2,14 +2,9 @@
 Repo for building new software packages for [Solus](https://solus-project.com).
 
 # Notes
-Create package.yml
-`fetchYML URI`
-
-List available components
-`eopkg lc`
-
-List contents of the package
-`lspisi eopkg_package.eopkg`
+- Create package.yml: `fetchYML URI`
+- List available components: `eopkg lc`
+- List contents of the package: `lspisi eopkg_package.eopkg`
 
 ## Links
 Packaging Guide
