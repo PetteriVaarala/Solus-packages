@@ -1,2 +1,5 @@
+common/
 *.eopkg
-*-Solus/
+/Makefile
+/Makefile.common
+/Makefile.iso
