@@ -1,9 +1,0 @@
-[submodule "common"]
-	path = common
-	url = https://git.solus-project.com/common
-[submodule "byobu"]
-	path = byobu
-	url = https://github.com/PetteriVaarala/byobu-Solus.git
-[submodule "telegraf"]
-	path = telegraf
-	url = https://github.com/PetteriVaarala/telegraf-Solus
