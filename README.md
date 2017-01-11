@@ -5,6 +5,7 @@ Repo for building new software packages for [Solus](https://solus-project.com).
 - Create package.yml: `fetchYML URI`
 - List available components: `eopkg lc`
 - List contents of the package: `lspisi eopkg_package.eopkg`
+- Clone the common repository to root, `git clone https://git.solus-project.com/common`
 
 ## Links
 Packaging Guide
